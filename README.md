@@ -17,4 +17,4 @@ To view Dashboard deployed on dashboard, follow the link  https://andromeda-dash
 
 Source code available at https://github.com/vijayjawali/andromeda-dashboard.git
 
-Note: Prediction plot is not working on GCP due to memeory constarints, to view prediction plot, execute the dashboard on deepnote
+Note: Prediction plot is not working on GCP due to memory constarints, to view prediction plot, execute the dashboard on deepnote
