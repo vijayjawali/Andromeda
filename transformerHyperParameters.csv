@@ -1,0 +1,8 @@
+index,learning_rate,epochs,loss
+Food Price Index,0.001,50,0.0010676982734973233
+Headline Consumer Price Index,0.001,50,0.0025134168875714145
+Official Core Consumer Price Index,0.001,50,0.004173689133798082
+Petrol,0.001,50,0.013507474213838577
+Producer Price Index,0.001,50,0.026743458583950996
+Energy Price Index,0.001,50,0.032308545584479965
+Diesel,0.001,50,0.03274099280436834
